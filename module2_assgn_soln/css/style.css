@@ -32,6 +32,7 @@ section {
   overflow: hidden;
   color: white;
   font-size: 1em;
+  list-style-type: square;
 }
 
 #section1 .title {
